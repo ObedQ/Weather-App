@@ -22,6 +22,7 @@ export default function Weather() {
       setLoading(false);
       console.log(e);
     }
+    
   }
 
   async function handleSearch() {
