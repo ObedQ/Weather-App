@@ -21,6 +21,7 @@ export default function Weather() {
     } catch (e) {
       setLoading(false);
       console.log(e);
+      
     }
   }
 
